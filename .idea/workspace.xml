@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d96450fa-e1e1-48f4-8193-1822f933dd2a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "makaz12"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/makaZ12/temp.git",
+    "accountId": "fbef0a35-be09-47e1-96c9-9406d9e7082e"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0044187770022979" />
+      <entry key="MS500" value="1.638215944028218" />
+      <entry key="S2" value="4.177933560012196" />
+      <entry key="S5" value="5.695217894549502" />
+      <entry key="S10" value="8.015284373081208" />
+      <entry key="S30" value="29.10975457900906" />
+      <entry key="S60" value="56.191774632441735" />
+      <entry key="M2" value="83.73909942558399" />
+      <entry key="M5" value="109.96516915647238" />
+      <entry key="M10" value="126.1318258384027" />
+      <entry key="M15" value="143.51260064728072" />
+      <entry key="M30" value="204.3874801857686" />
+      <entry key="H1" value="288.19042763581103" />
+      <entry key="H2" value="360.39232539224196" />
+      <entry key="H4" value="408.16829309762926" />
+      <entry key="D1" value="455.5762288024643" />
+      <entry key="W1" value="464.4904155757138" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.2691911042496559E-283" />
+      <entry key="S2" value="2.204094725005859E-71" />
+      <entry key="S5" value="9.607522298292354E-29" />
+      <entry key="S10" value="1.9204956609941885E-14" />
+      <entry key="S30" value="8.08361953996293E-5" />
+      <entry key="S60" value="0.02420177708586712" />
+      <entry key="M2" value="0.4667034335303443" />
+      <entry key="M5" value="3.2875434810582482" />
+      <entry key="M10" value="8.422296020493636" />
+      <entry key="M15" value="13.275750419794097" />
+      <entry key="M30" value="23.354557256838362" />
+      <entry key="H1" value="32.33946457718682" />
+      <entry key="H2" value="38.44638602946854" />
+      <entry key="H4" value="42.02127286178256" />
+      <entry key="D1" value="45.306838322695874" />
+      <entry key="W1" value="45.900213668270325" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9635027400912135" />
+      <entry key="MS500" value="1.6215696576901728" />
+      <entry key="S2" value="4.163544788239966" />
+      <entry key="S5" value="5.687077266542263" />
+      <entry key="S10" value="8.009960815319356" />
+      <entry key="S30" value="29.10433328428448" />
+      <entry key="S60" value="56.20919844552901" />
+      <entry key="M2" value="84.19115924143378" />
+      <entry key="M5" value="113.2165581132868" />
+      <entry key="M10" value="134.50594942194024" />
+      <entry key="M15" value="156.73790587023467" />
+      <entry key="M30" value="227.69837825962645" />
+      <entry key="H1" value="320.4999730885161" />
+      <entry key="H2" value="398.82101311999753" />
+      <entry key="H4" value="450.17991561468864" />
+      <entry key="D1" value="500.8813359818468" />
+      <entry key="W1" value="510.39037876991165" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3MOKZYscC8VVlQWZCjyHTyPJSId" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SceneHolder.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/w0888370/IdeaProjects/ClassPage/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/classpage" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SceneHolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.classpage.SceneHolder" />
+      <module name="ClassPage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.classpage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SceneHolder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d96450fa-e1e1-48f4-8193-1822f933dd2a" name="Changes" comment="" />
+      <created>1795216230111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795216230111</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
